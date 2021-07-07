@@ -1,14 +1,98 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "dealers": [
+    "0c4aab30",
+    "1efa7e46",
+    "86e64a33"
+  ],
+  "goods": [
+    {
+      "name": "Python",
+      "price": 5.35,
+      "image": "/logo/python.png"
+    },
+    {
+      "name": "Go",
+      "price": 7.55,
+      "image": "/logo/go.png"
+    },
+    {
+      "name": "Node.js",
+      "price": 9.99,
+      "image": "/logo/node.png"
+    },
+    {
+      "name": "ะก#",
+      "price": 9.99,
+      "image": "/logo/ch.png"
+    },
+    {
+      "name": "VS Code",
+      "price": 10.25,
+      "image": "/logo/code.png"
+    },
+    {
+      "name": "Sublime",
+      "price": 17.4,
+      "image": "/logo/sublime.png"
+    },
+    {
+      "name": "Vim",
+      "price": 99.99,
+      "image": "/logo/vim.png"
+    },
+    {
+      "name": "WebStorm",
+      "price": 33.43,
+      "image": "/logo/webstorm.png"
+    },
+    {
+      "name": "Vue",
+      "price": 50.35,
+      "image": "/logo/vue.png"
+    },
+    {
+      "name": "React",
+      "price": 66.6,
+      "image": "/logo/react.png"
+    },
+    {
+      "name": "Angular",
+      "price": 3.75,
+      "image": "/logo/angular.png"
+    },
+    {
+      "name": "Sass",
+      "price": 11.11,
+      "image": "/logo/sass.png"
+    }
+  ]
 }
