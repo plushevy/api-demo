@@ -94,5 +94,305 @@
       "price": 11.11,
       "image": "/logo/sass.png"
     }
+  ],
+  "list": [
+    {
+      "id": "1",
+      "num": 3440,
+      "initiated_at": "2021-06-24T14:28:14.237",
+      "dadd": "2021-06-24T14:28:14.237",
+      "state": "init",
+      "lastUpd": "2021-06-24T14:28:14.237",
+      "stg": [
+        "ACCOPEN"
+      ],
+      "inn": "780528376562",
+      "client_name": "  ",
+      "person_phone": "79000000000"
+    },
+    {
+      "id": "2",
+      "num": 3439,
+      "initiated_at": "2021-06-09T14:44:59.307",
+      "dadd": "2021-06-09T14:44:59.307",
+      "state": "init",
+      "lastUpd": "2021-06-11T02:46:01.703",
+      "stg": [
+        "FNS.REG"
+      ],
+      "inn": null,
+      "client_name": "Тест Тест Тест",
+      "person_phone": "79999627081"
+    },
+    {
+      "id": "3",
+      "num": 3438,
+      "initiated_at": "2021-05-24T10:49:38.56",
+      "dadd": "2021-05-24T10:49:38.56",
+      "state": "init",
+      "lastUpd": "2021-06-11T02:46:01.703",
+      "stg": [
+        "ACCOPEN"
+      ],
+      "inn": "0326592480",
+      "client_name": "ООО \"УТРО 88\"",
+      "person_phone": "79999290303"
+    },
+    {
+      "id": "4",
+      "num": 3437,
+      "initiated_at": "2021-05-21T18:18:15.843",
+      "dadd": "2021-05-21T18:18:15.843",
+      "state": "init",
+      "lastUpd": "2021-06-11T02:46:01.703",
+      "stg": [
+        "ACCOPEN"
+      ],
+      "inn": "7838095074",
+      "client_name": "ООО \"АА\"",
+      "person_phone": "79658374568"
+    },
+    {
+      "id": "5",
+      "num": 3436,
+      "initiated_at": "2021-05-20T14:00:12.64",
+      "dadd": "2021-05-20T14:00:12.64",
+      "state": "init",
+      "lastUpd": "2021-06-11T02:46:01.703",
+      "stg": [
+        "ACCOPEN"
+      ],
+      "inn": "7802893802",
+      "client_name": "ООО \"ВА ЛОГИСТ\"",
+      "person_phone": "79320202121"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "num": 3440,
+      "dadd": "2021-06-24T14:28:14.237",
+      "profile_id": "7EB85F4D-FB89-4991-AFBE-91CEB9D6A20F",
+      "state": "init",
+      "lastUpd": "2021-06-24T14:28:14.237",
+      "stg": [
+        "ACCOPEN"
+      ],
+      "inn": "780528376562",
+      "company_name": null,
+      "person_phone": "79000000000",
+      "company_type": "IP",
+      "person_fullname": "  ",
+      "person_email": "hehSA@masd.ru",
+      "extra": {
+        "partner": {
+          "type": "partner",
+          "user_id": "81850F51-5BB2-4D51-8BC7-C7B8CCEDE7D6",
+          "client_name": "Иванович Александртут Геннадьевич",
+          "inn": "199798354904"
+        },
+        "crm_source_type": "CRM_Dynamics"
+      }
+    },
+    {
+      "id": "2",
+      "num": 3439,
+      "dadd": "2021-06-09T14:44:59.307",
+      "profile_id": "8B31CF68-8DFA-4B79-B175-F022AE3F39C7",
+      "state": "init",
+      "lastUpd": "2021-06-11T02:46:01.703",
+      "stg": [
+        "FNS.REG"
+      ],
+      "inn": null,
+      "company_name": null,
+      "person_phone": "79999627081",
+      "company_type": "UL",
+      "person_fullname": "Тест Тест Тест",
+      "person_email": null,
+      "extra": {
+        "partner": {
+          "type": "partner",
+          "user_id": "7AA8633D-C10A-4BD6-853C-A2D92FF67FCC",
+          "client_name": "ООО \"ОО\" \"СКАТ САНКТ-ПЕТЕРБУРГ ТБ\"",
+          "inn": "7810726273",
+          "ogrn": "1187847093224"
+        },
+        "crm_source_type": "CRM_Dynamics"
+      }
+    },
+    {
+      "id": "3",
+      "num": 3438,
+      "dadd": "2021-05-24T10:49:38.56",
+      "profile_id": "8B31CF68-8DFA-4B79-B175-F022AE3F39C7",
+      "state": "init",
+      "lastUpd": "2021-06-11T02:46:01.703",
+      "stg": [
+        "ACCOPEN"
+      ],
+      "inn": "0326592480",
+      "company_name": "ООО \"УТРО 88\"",
+      "person_phone": "79999290303",
+      "company_type": "UL",
+      "person_fullname": "Тест Тестович Аетов",
+      "person_email": null,
+      "extra": {
+        "partner": {
+          "type": "partner",
+          "user_id": "7AA8633D-C10A-4BD6-853C-A2D92FF67FCC",
+          "client_name": "ООО \"ОО\" \"СКАТ САНКТ-ПЕТЕРБУРГ ТБ\"",
+          "inn": "7810726273",
+          "ogrn": "1187847093224"
+        },
+        "crm_source_type": "CRM_Dynamics"
+      }
+    },
+    {
+      "id": "4",
+      "num": 3437,
+      "dadd": "2021-05-21T18:18:15.843",
+      "profile_id": "A509EFF1-A9CE-420A-A5EB-60A9375D0B8A",
+      "state": "init",
+      "lastUpd": "2021-06-11T02:46:01.703",
+      "stg": [
+        "ACCOPEN"
+      ],
+      "inn": "7838095074",
+      "company_name": "ООО \"АА\"",
+      "person_phone": "79658374568",
+      "company_type": "UL",
+      "person_fullname": "Аа Аа Аа",
+      "person_email": "afs@fs.fs",
+      "extra": {
+        "partner": {
+          "type": "partner",
+          "user_id": "F174CF9B-4683-4627-B336-C8C0B15037B7",
+          "client_name": "Никита Васин Александрович",
+          "inn": "143532800107"
+        },
+        "crm_source_type": "CRM_Dynamics"
+      }
+    },
+    {
+      "id": "5",
+      "num": 3436,
+      "dadd": "2021-05-20T14:00:12.64",
+      "profile_id": "BC8F3399-746B-4C75-AACE-DE80FEEA10BD",
+      "state": "init",
+      "lastUpd": "2021-06-11T02:46:01.703",
+      "stg": [
+        "ACCOPEN"
+      ],
+      "inn": "7802893802",
+      "company_name": "ООО \"ВА ЛОГИСТ\"",
+      "person_phone": "79320202121",
+      "company_type": "UL",
+      "person_fullname": "Вячеславович Олег Олеговчи",
+      "person_email": null,
+      "extra": {
+        "partner": {
+          "type": "partner",
+          "user_id": "B00DD4AF-5DC5-4834-9E70-FCFA6382F97D",
+          "client_name": "Левчук Руслан Тест",
+          "inn": "540302854720"
+        },
+        "crm_source_type": "CRM_Dynamics"
+      }
+    }
+  ],
+  "meetings": [
+    {
+      "id": "5EB9B16D-A423-4864-AFAB-052A05C55CC1",
+      "num": 3440,
+      "dadd": "2021-06-24T14:28:14.237",
+      "meeting_date": "2021-06-24T14:29:21.027",
+      "meeting_place": "test",
+      "bank_name": "modulbank2",
+      "meeting_state": "error",
+      "is_own": true,
+      "profile_id": "7EB85F4D-FB89-4991-AFBE-91CEB9D6A20F",
+      "lastUpd": "2021-06-24T14:28:14.237",
+      "stg": [
+        "ACCOPEN"
+      ],
+      "inn": "780528376562",
+      "ogrn": "315784700139026",
+      "client_name": "  ",
+      "person_phone": "79000000000",
+      "client_city": "DefaultCity"
+    },
+    {
+      "id": "337A3FBD-C5CC-46A8-9393-1DAFFFFC213A",
+      "num": 3358,
+      "dadd": "2021-03-20T17:30:00.54",
+      "meeting_date": "2021-03-26T00:00:00",
+      "meeting_place": "Выездная встреча",
+      "bank_name": "modulbank2",
+      "meeting_state": "upload_docs",
+      "is_own": true,
+      "profile_id": null,
+      "lastUpd": "2021-03-24T19:42:02.36",
+      "stg": [],
+      "inn": "650200148348",
+      "ogrn": "311650106400069",
+      "client_name": "ИП Хикматов Александр Рабуатович",
+      "person_phone": "70000000551",
+      "client_city": "Москва"
+    },
+    {
+      "id": "98C43C71-C81A-47A3-BE27-3A149CAD7668",
+      "num": 3389,
+      "dadd": "2021-03-22T12:33:00.323",
+      "meeting_date": "2021-03-22T00:00:00",
+      "meeting_place": "Выездная встреча",
+      "bank_name": "modulbank2",
+      "meeting_state": "process",
+      "is_own": true,
+      "profile_id": null,
+      "lastUpd": "2021-03-24T19:42:02.36",
+      "stg": [],
+      "inn": "650115638528",
+      "ogrn": "319650100002167",
+      "client_name": "ИП И Алексей Эдуардович",
+      "person_phone": "70652069822",
+      "client_city": "Москва"
+    },
+    {
+      "id": "BC27DB82-8B31-4023-BF50-66AB342B402A",
+      "num": 3374,
+      "dadd": "2021-03-22T09:09:00.687",
+      "meeting_date": "2021-03-22T00:00:00",
+      "meeting_place": "Встреча в офисе",
+      "bank_name": "modulbank",
+      "meeting_state": "error",
+      "is_own": true,
+      "profile_id": null,
+      "lastUpd": "2021-03-24T19:42:02.36",
+      "stg": [],
+      "inn": "190401864103",
+      "ogrn": "304190113500011",
+      "client_name": "ИП Пак Лида Афанасьевна",
+      "person_phone": "72123280943",
+      "client_city": "Москва"
+    },
+    {
+      "id": "C5047D46-DA08-4DE8-8D64-775A7534F6DF",
+      "num": 3335,
+      "dadd": "2021-03-19T14:45:00.72",
+      "meeting_date": "2021-03-19T00:00:00",
+      "meeting_place": "Встреча в офисе",
+      "bank_name": "modulbank",
+      "meeting_state": "reupload_fls",
+      "is_own": true,
+      "profile_id": null,
+      "lastUpd": "2021-03-24T19:42:02.36",
+      "stg": [],
+      "inn": null,
+      "ogrn": null,
+      "client_name": " ",
+      "person_phone": "79964008807",
+      "client_city": "Москва"
+    }
   ]
 }
